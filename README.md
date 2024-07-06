@@ -6,4 +6,5 @@ The keyboard runs on VIAL QMK firmware.
 
 # Project is sponsored by PCBWay!
 ![PCBWay Logo](assets/pcbway_logo.png)
+
 If you would like to make one of your own, head on over to PCBway.com and get yourself a Goober.
