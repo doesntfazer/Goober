@@ -2,7 +2,7 @@
 # Project is sponsored by PCBWay!
 ![PCBWay Logo](assets/pcbway_logo.png)
 
-If you're not familiar with PCBWay, they're a fantastic company specializing in PCB prototyping and manufacturing. Whether you're a hobbyist or a professional, PCBWay offers high-quality PCB services at incredibly affordable prices. They offer a wide selection of colors and other options like assembly!
+If you're not familiar with PCBWay, they're a fantastic company specializing in PCB prototyping and manufacturing. Whether you're a hobbyist or a professional, PCBWay offers high-quality PCB services at incredibly affordable prices. They offer a wide selection of colors and other options like full assembly!
 
 I've been using PCBWay for my projects, and I can't recommend them enough. Their user-friendly interface makes it easy to upload your designs, and their fast turnaround times ensure you get your PCBs quickly. Plus, they offer a wide range of services, including PCB assembly, flexible PCBs, and even 3D printing and CNC!
 
