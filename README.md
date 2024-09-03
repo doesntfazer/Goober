@@ -2,6 +2,7 @@
 The Goober is a Hummingbird-like layout.
 
 There are several different versions of the Goober layout.
+For firmware Check out the [Keyboard Dweebs Firmware Repositore](https://github.com/doesntfazer/Keyboard-Dweebs-Firmware-repository)
 
 ## Goober Original
 ![image](https://github.com/user-attachments/assets/306f58a9-53f9-49d6-8c94-10445a9058eb)
