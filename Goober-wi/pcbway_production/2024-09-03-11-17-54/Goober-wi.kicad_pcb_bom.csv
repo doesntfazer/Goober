@@ -1,0 +1,6 @@
+﻿Designator,Quantity,Value,Footprint,Package,MPN,Mount_Type
+J1,1,Conn_01x02,PinHeader_1x02_P2.54mm_Vertical,,,tht
+"S1, S2",2,PTS526_SM08_SMTR2_LFS,SW_PTS526_SM08_SMTR2_LFS,None,,smt
+"SW1, SW10, SW11, SW12, SW13, SW14, SW15, SW2, SW3, SW4, SW5, SW6, SW7, SW8, SW9",15,SW_PUSH,SW_Kailh_Choc_V1V2_1.00u - Reversable,,,tht
+SW16,1,SW_SPDT,switch-MSK-12C02-smd,,,smt
+U1,1,nice_nano,nice_nano,,,tht

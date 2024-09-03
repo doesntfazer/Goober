@@ -1,0 +1,21 @@
+﻿pos_x,pos_y,rotation,side,designator,mpn,pack,footprint,value,mount_type,place
+130.54,-108.635,0.0,top,J1,,,PinHeader_1x02_P2.54mm_Vertical,Conn_01x02,tht,True
+143.64,-98.03,180.0,bottom,S1,,None,SW_PTS526_SM08_SMTR2_LFS,PTS526_SM08_SMTR2_LFS,smt,True
+143.64,-98.03,0.0,top,S2,,None,SW_PTS526_SM08_SMTR2_LFS,PTS526_SM08_SMTR2_LFS,smt,True
+88.392,-60.51,0.0,top,SW1,,,SW_Kailh_Choc_V1V2_1.00u - Reversable,SW_PUSH,tht,True
+160.392,-75.81,0.0,top,SW10,,,SW_Kailh_Choc_V1V2_1.00u - Reversable,SW_PUSH,tht,True
+106.392,-81.76,0.0,top,SW11,,,SW_Kailh_Choc_V1V2_1.00u - Reversable,SW_PUSH,tht,True
+124.392,-77.51,0.0,top,SW12,,,SW_Kailh_Choc_V1V2_1.00u - Reversable,SW_PUSH,tht,True
+142.392,-81.76,0.0,top,SW13,,,SW_Kailh_Choc_V1V2_1.00u - Reversable,SW_PUSH,tht,True
+146.892,-113.21,0.0,top,SW14,,,SW_Kailh_Choc_V1V2_1.00u - Reversable,SW_PUSH,tht,True
+164.892,-115.76,0.0,top,SW15,,,SW_Kailh_Choc_V1V2_1.00u - Reversable,SW_PUSH,tht,True
+130.89,-121.31,90.0,top,SW16,,,switch-MSK-12C02-smd,SW_SPDT,smt,True
+106.392,-47.76,0.0,top,SW2,,,SW_Kailh_Choc_V1V2_1.00u - Reversable,SW_PUSH,tht,True
+124.392,-43.51,0.0,top,SW3,,,SW_Kailh_Choc_V1V2_1.00u - Reversable,SW_PUSH,tht,True
+142.392,-47.76,0.0,top,SW4,,,SW_Kailh_Choc_V1V2_1.00u - Reversable,SW_PUSH,tht,True
+160.392,-58.81,0.0,top,SW5,,,SW_Kailh_Choc_V1V2_1.00u - Reversable,SW_PUSH,tht,True
+88.392,-77.51,0.0,top,SW6,,,SW_Kailh_Choc_V1V2_1.00u - Reversable,SW_PUSH,tht,True
+106.392,-64.76,0.0,top,SW7,,,SW_Kailh_Choc_V1V2_1.00u - Reversable,SW_PUSH,tht,True
+124.392,-60.51,0.0,top,SW8,,,SW_Kailh_Choc_V1V2_1.00u - Reversable,SW_PUSH,tht,True
+142.392,-64.76,0.0,top,SW9,,,SW_Kailh_Choc_V1V2_1.00u - Reversable,SW_PUSH,tht,True
+109.23675,-109.89,0.0,top,U1,,,nice_nano,nice_nano,tht,True

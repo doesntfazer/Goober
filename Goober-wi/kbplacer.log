@@ -1,0 +1,90 @@
+[kbplacer_plugin_action.py:63]: Plugin version: 0.11
+[kbplacer_plugin_action.py:64]: Python version: '3.9.14 (main, Feb 13 2023, 04:48:26) [MSC v.1934 64 bit (AMD64)]'
+[kbplacer_plugin_action.py:65]: KiCad version: 7.0.1 with 4.2.0 msw (phoenix) wxWidgets 3.2.2
+[kbplacer_dialog.py:585]: Language: en
+[kbplacer_plugin_action.py:76]: GUI state: {"layout_path": "C:\\Users\\Alex\\Downloads\\keyboard-layout (17).json", "key_distance": [18.0, 17.0], "key_info": {"annotation_format": "SW{}", "position_option": "Default", "position": {"x": 0.0, "y": 0.0, "orientation": 0.0, "side": "Front"}, "template_path": ""}, "enable_diode_placement": false, "route_switches_with_diodes": false, "optimize_diodes_orientation": false, "diode_info": {"annotation_format": "D{}", "position_option": "Default", "position": {"x": 5.08, "y": 3.03, "orientation": 90.0, "side": "Back"}, "template_path": ""}, "additional_elements": [{"annotation_format": "ST{}", "position_option": "Custom", "position": {"x": 0.0, "y": 0.0, "orientation": 0.0, "side": "Front"}, "template_path": ""}], "route_rows_and_columns": false, "template_path": "", "generate_outline": false, "outline_delta": 0.0}
+[key_placer.py:310]: Set key 1U distance: 18000000/17000000
+[key_placer.py:117]: Switches by nets: defaultdict(<class 'list'>, {frozenset({'SW15', 'GND'}): ['SW15'], frozenset({'GND', 'SW14'}): ['SW14'], frozenset({'SW13', 'GND'}): ['SW13'], frozenset({'SW12', 'GND'}): ['SW12'], frozenset({'SW11', 'GND'}): ['SW11'], frozenset({'SW10', 'GND'}): ['SW10'], frozenset({'SW9', 'GND'}): ['SW9'], frozenset({'GND', 'SW8'}): ['SW8'], frozenset({'GND', 'SW7'}): ['SW7'], frozenset({'GND', 'SW6'}): ['SW6'], frozenset({'GND', 'SW5'}): ['SW5'], frozenset({'GND', 'SW4'}): ['SW4'], frozenset({'GND', 'SW3'}): ['SW3'], frozenset({'GND', 'SW2'}): ['SW2'], frozenset({'GND', 'SW1'}): ['SW1']})
+[key_placer.py:121]: Diodes by switch: {}
+[board_modifier.py:63]: Searching for SW1 footprint in W:\foldiboi-wi\foldiboiwi\foldiboiwi.kicad_pcb
+[key_placer.py:506]: Looking for connection template between SW1 and other elements
+[board_modifier.py:97]: Getting SW1 footprint position: (34000000, 54000000)
+[key_placer.py:550]: Got connection template: 
+[kle_serial.py:885]: User layout: [[{'rx': 6, 'ry': 3, 'y': -3, 'x': -4, 'a': 7}, '\n\n\n\n3'], [{'y': -0.75, 'x': -5}, '\n\n\n\n2', {'x': 1}, '\n\n\n\n4'], [{'y': -0.35, 'x': -2}, '\n\n\n\n5'], [{'y': -0.8999999999999999, 'x': -6}, '\n\n\n\n1', {'x': 1}, '\n\n\n\n8'], [{'y': -0.75, 'x': -5}, '\n\n\n\n7', {'x': 1}, '\n\n\n\n9'], [{'y': -0.3500000000000001, 'x': -2}, '\n\n\n\n10'], [{'y': -0.8999999999999999, 'x': -6}, '\n\n\n\n6', {'x': 1}, '\n\n\n\n12'], [{'y': -0.75, 'x': -5}, '\n\n\n\n11', {'x': 1}, '\n\n\n\n13'], [{'y': 0.8499999999999996, 'x': -2.75}, '\n\n\n\n14'], [{'y': -0.8499999999999996, 'x': -1.75}, '\n\n\n\n15']]
+[key_placer.py:610]: Layout offset: (27000000, 25500000)
+[board_modifier.py:84]: Setting SW3 footprint position: (72000000, 34000000)
+[board_modifier.py:84]: Setting SW2 footprint position: (54000000, 38250000)
+[board_modifier.py:84]: Setting SW4 footprint position: (90000000, 38250000)
+[board_modifier.py:84]: Setting SW5 footprint position: (108000000, 49300000)
+[board_modifier.py:84]: Setting SW1 footprint position: (36000000, 51000000)
+[board_modifier.py:84]: Setting SW8 footprint position: (72000000, 51000000)
+[board_modifier.py:84]: Setting SW7 footprint position: (54000000, 55250000)
+[board_modifier.py:84]: Setting SW9 footprint position: (90000000, 55250000)
+[board_modifier.py:84]: Setting SW10 footprint position: (108000000, 66300000)
+[board_modifier.py:84]: Setting SW6 footprint position: (36000000, 68000000)
+[board_modifier.py:84]: Setting SW12 footprint position: (72000000, 68000000)
+[board_modifier.py:84]: Setting SW11 footprint position: (54000000, 72250000)
+[board_modifier.py:84]: Setting SW13 footprint position: (90000000, 72250000)
+[board_modifier.py:84]: Setting SW14 footprint position: (94500000, 103700000)
+[board_modifier.py:84]: Setting SW15 footprint position: (112500000, 106250000)
+[key_placer.py:955]: Diode info: [ElementInfo(annotation_format='D{}', position_option=<PositionOption.UNCHANGED: 'Unchanged'>, position=ElementPosition(x=5.08, y=3.03, orientation=90.0, side=<Side.BACK: 'Back'>), template_path='')]
+[key_placer.py:723]: Placing additional elements for SW15
+[board_modifier.py:97]: Getting SW15 footprint position: (112500000, 106250000)
+[board_modifier.py:74]: Searching for optional ST15 footprint in W:\foldiboi-wi\foldiboiwi\foldiboiwi.kicad_pcb
+[board_modifier.py:79]: Footprint not found
+[key_placer.py:723]: Placing additional elements for SW14
+[board_modifier.py:97]: Getting SW14 footprint position: (94500000, 103700000)
+[board_modifier.py:74]: Searching for optional ST14 footprint in W:\foldiboi-wi\foldiboiwi\foldiboiwi.kicad_pcb
+[board_modifier.py:79]: Footprint not found
+[key_placer.py:723]: Placing additional elements for SW13
+[board_modifier.py:97]: Getting SW13 footprint position: (90000000, 72250000)
+[board_modifier.py:74]: Searching for optional ST13 footprint in W:\foldiboi-wi\foldiboiwi\foldiboiwi.kicad_pcb
+[board_modifier.py:79]: Footprint not found
+[key_placer.py:723]: Placing additional elements for SW12
+[board_modifier.py:97]: Getting SW12 footprint position: (72000000, 68000000)
+[board_modifier.py:74]: Searching for optional ST12 footprint in W:\foldiboi-wi\foldiboiwi\foldiboiwi.kicad_pcb
+[board_modifier.py:79]: Footprint not found
+[key_placer.py:723]: Placing additional elements for SW11
+[board_modifier.py:97]: Getting SW11 footprint position: (54000000, 72250000)
+[board_modifier.py:74]: Searching for optional ST11 footprint in W:\foldiboi-wi\foldiboiwi\foldiboiwi.kicad_pcb
+[board_modifier.py:79]: Footprint not found
+[key_placer.py:723]: Placing additional elements for SW10
+[board_modifier.py:97]: Getting SW10 footprint position: (108000000, 66300000)
+[board_modifier.py:74]: Searching for optional ST10 footprint in W:\foldiboi-wi\foldiboiwi\foldiboiwi.kicad_pcb
+[board_modifier.py:79]: Footprint not found
+[key_placer.py:723]: Placing additional elements for SW9
+[board_modifier.py:97]: Getting SW9 footprint position: (90000000, 55250000)
+[board_modifier.py:74]: Searching for optional ST9 footprint in W:\foldiboi-wi\foldiboiwi\foldiboiwi.kicad_pcb
+[board_modifier.py:79]: Footprint not found
+[key_placer.py:723]: Placing additional elements for SW8
+[board_modifier.py:97]: Getting SW8 footprint position: (72000000, 51000000)
+[board_modifier.py:74]: Searching for optional ST8 footprint in W:\foldiboi-wi\foldiboiwi\foldiboiwi.kicad_pcb
+[board_modifier.py:79]: Footprint not found
+[key_placer.py:723]: Placing additional elements for SW7
+[board_modifier.py:97]: Getting SW7 footprint position: (54000000, 55250000)
+[board_modifier.py:74]: Searching for optional ST7 footprint in W:\foldiboi-wi\foldiboiwi\foldiboiwi.kicad_pcb
+[board_modifier.py:79]: Footprint not found
+[key_placer.py:723]: Placing additional elements for SW6
+[board_modifier.py:97]: Getting SW6 footprint position: (36000000, 68000000)
+[board_modifier.py:74]: Searching for optional ST6 footprint in W:\foldiboi-wi\foldiboiwi\foldiboiwi.kicad_pcb
+[board_modifier.py:79]: Footprint not found
+[key_placer.py:723]: Placing additional elements for SW5
+[board_modifier.py:97]: Getting SW5 footprint position: (108000000, 49300000)
+[board_modifier.py:74]: Searching for optional ST5 footprint in W:\foldiboi-wi\foldiboiwi\foldiboiwi.kicad_pcb
+[board_modifier.py:79]: Footprint not found
+[key_placer.py:723]: Placing additional elements for SW4
+[board_modifier.py:97]: Getting SW4 footprint position: (90000000, 38250000)
+[board_modifier.py:74]: Searching for optional ST4 footprint in W:\foldiboi-wi\foldiboiwi\foldiboiwi.kicad_pcb
+[board_modifier.py:79]: Footprint not found
+[key_placer.py:723]: Placing additional elements for SW3
+[board_modifier.py:97]: Getting SW3 footprint position: (72000000, 34000000)
+[board_modifier.py:74]: Searching for optional ST3 footprint in W:\foldiboi-wi\foldiboiwi\foldiboiwi.kicad_pcb
+[board_modifier.py:79]: Footprint not found
+[key_placer.py:723]: Placing additional elements for SW2
+[board_modifier.py:97]: Getting SW2 footprint position: (54000000, 38250000)
+[board_modifier.py:74]: Searching for optional ST2 footprint in W:\foldiboi-wi\foldiboiwi\foldiboiwi.kicad_pcb
+[board_modifier.py:79]: Footprint not found
+[key_placer.py:723]: Placing additional elements for SW1
+[board_modifier.py:97]: Getting SW1 footprint position: (36000000, 51000000)
+[board_modifier.py:74]: Searching for optional ST1 footprint in W:\foldiboi-wi\foldiboiwi\foldiboiwi.kicad_pcb
+[board_modifier.py:79]: Footprint not found
