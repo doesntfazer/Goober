@@ -1,0 +1,5 @@
+[kbplacer_plugin_action.py:63]: Plugin version: 0.11
+[kbplacer_plugin_action.py:64]: Python version: '3.9.14 (main, Feb 13 2023, 04:48:26) [MSC v.1934 64 bit (AMD64)]'
+[kbplacer_plugin_action.py:65]: KiCad version: 7.0.1 with 4.2.0 msw (phoenix) wxWidgets 3.2.2
+[kbplacer_dialog.py:585]: Language: en
+[kbplacer_plugin_action.py:84]: GUI state: {"layout_path": "C:\\Users\\Alex\\Downloads\\keyboard-layout (7).json", "key_distance": [19.05, 19.05], "key_info": {"annotation_format": "SW{}", "position_option": "Default", "position": {"x": 0.0, "y": 0.0, "orientation": 0.0, "side": "Front"}, "template_path": ""}, "enable_diode_placement": true, "route_switches_with_diodes": true, "optimize_diodes_orientation": false, "diode_info": {"annotation_format": "D{}", "position_option": "Relative", "position": null, "template_path": ""}, "additional_elements": [{"annotation_format": "ST{}", "position_option": "Custom", "position": {"x": 0.0, "y": 0.0, "orientation": 0.0, "side": "Front"}, "template_path": ""}], "route_rows_and_columns": false, "template_path": "", "generate_outline": false, "outline_delta": 0.0}

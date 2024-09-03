@@ -1,0 +1,666 @@
+163862530647494
+PCM_Resistor_SMD_AKL
+R_0201_0603Metric
+Resistor SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), Alternate KiCad Library
+resistor
+0
+4
+2
+PCM_Resistor_SMD_AKL
+R_0201_0603Metric_Pad0.64x0.40mm
+Resistor SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), Alternate KiCad Library
+resistor handsolder
+0
+4
+2
+PCM_Resistor_SMD_AKL
+R_0201_0603Metric_Pad0.64x0.40mm_HandSolder
+Resistor SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), Alternate KiCad Library
+resistor handsolder
+0
+4
+2
+PCM_Resistor_SMD_AKL
+R_0402_1005Metric
+Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), Alternate KiCad Library
+resistor
+0
+2
+2
+PCM_Resistor_SMD_AKL
+R_0402_1005Metric_Pad0.72x0.64mm
+Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), Alternate KiCad Library
+resistor handsolder
+0
+2
+2
+PCM_Resistor_SMD_AKL
+R_0402_1005Metric_Pad0.72x0.64mm_HandSolder
+Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), Alternate KiCad Library
+resistor handsolder
+0
+2
+2
+PCM_Resistor_SMD_AKL
+R_0603_1608Metric
+Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), Alternate KiCad Library
+resistor
+0
+2
+2
+PCM_Resistor_SMD_AKL
+R_0603_1608Metric_Pad0.98x0.95mm
+Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), Alternate KiCad Library
+resistor handsolder
+0
+2
+2
+PCM_Resistor_SMD_AKL
+R_0603_1608Metric_Pad0.98x0.95mm_HandSolder
+Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), Alternate KiCad Library
+resistor handsolder
+0
+2
+2
+PCM_Resistor_SMD_AKL
+R_0603_1608Metric_Pad1.05x0.95mm
+Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), Alternate KiCad Library
+resistor handsolder
+0
+2
+2
+PCM_Resistor_SMD_AKL
+R_0603_1608Metric_Pad1.05x0.95mm_HandSolder
+Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), Alternate KiCad Library
+resistor handsolder
+0
+2
+2
+PCM_Resistor_SMD_AKL
+R_0612_1632Metric
+Resistor SMD 0612 (1632 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20019/rcwe.pdf), Alternate KiCad Library
+resistor
+0
+2
+2
+PCM_Resistor_SMD_AKL
+R_0612_1632Metric_Pad1.18x3.40mm
+Resistor SMD 0612 (1632 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: https://www.vishay.com/docs/20019/rcwe.pdf), Alternate KiCad Library
+resistor handsolder
+0
+2
+2
+PCM_Resistor_SMD_AKL
+R_0612_1632Metric_Pad1.18x3.40mm_HandSolder
+Resistor SMD 0612 (1632 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: https://www.vishay.com/docs/20019/rcwe.pdf), Alternate KiCad Library
+resistor handsolder
+0
+2
+2
+PCM_Resistor_SMD_AKL
+R_0805_2012Metric
+Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), Alternate KiCad Library
+resistor
+0
+2
+2
+PCM_Resistor_SMD_AKL
+R_0805_2012Metric_Pad1.15x1.40mm
+Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), Alternate KiCad Library
+resistor handsolder
+0
+2
+2
+PCM_Resistor_SMD_AKL
+R_0805_2012Metric_Pad1.15x1.40mm_HandSolder
+Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), Alternate KiCad Library
+resistor handsolder
+0
+2
+2
+PCM_Resistor_SMD_AKL
+R_0805_2012Metric_Pad1.20x1.40mm
+Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), Alternate KiCad Library
+resistor handsolder
+0
+2
+2
+PCM_Resistor_SMD_AKL
+R_0805_2012Metric_Pad1.20x1.40mm_HandSolder
+Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), Alternate KiCad Library
+resistor handsolder
+0
+2
+2
+PCM_Resistor_SMD_AKL
+R_0815_2038Metric
+Resistor SMD 0815 (2038 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.susumu.co.jp/common/pdf/n_catalog_partition07_en.pdf), Alternate KiCad Library
+resistor
+0
+2
+2
+PCM_Resistor_SMD_AKL
+R_0815_2038Metric_Pad1.20x4.05mm
+Resistor SMD 0815 (2038 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: https://www.susumu.co.jp/common/pdf/n_catalog_partition07_en.pdf), Alternate KiCad Library
+resistor handsolder
+0
+2
+2
+PCM_Resistor_SMD_AKL
+R_0815_2038Metric_Pad1.20x4.05mm_HandSolder
+Resistor SMD 0815 (2038 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: https://www.susumu.co.jp/common/pdf/n_catalog_partition07_en.pdf), Alternate KiCad Library
+resistor handsolder
+0
+2
+2
+PCM_Resistor_SMD_AKL
+R_0815_2038Metric_Pad1.53x4.00mm
+Resistor SMD 0815 (2038 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: http://www.yageo.com/documents/recent/PYu-PRPFPH_521_RoHS_L_0.pdf), Alternate KiCad Library
+resistor handsolder
+0
+2
+2
+PCM_Resistor_SMD_AKL
+R_0815_2038Metric_Pad1.53x4.00mm_HandSolder
+Resistor SMD 0815 (2038 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: http://www.yageo.com/documents/recent/PYu-PRPFPH_521_RoHS_L_0.pdf), Alternate KiCad Library
+resistor handsolder
+0
+2
+2
+PCM_Resistor_SMD_AKL
+R_01005_0402Metric
+Resistor SMD 01005 (0402 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.vishay.com/docs/20056/crcw01005e3.pdf), Alternate KiCad Library
+resistor
+0
+4
+2
+PCM_Resistor_SMD_AKL
+R_01005_0402Metric_Pad0.57x0.30mm
+Resistor SMD 01005 (0402 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: http://www.vishay.com/docs/20056/crcw01005e3.pdf), Alternate KiCad Library
+resistor handsolder
+0
+4
+2
+PCM_Resistor_SMD_AKL
+R_01005_0402Metric_Pad0.57x0.30mm_HandSolder
+Resistor SMD 01005 (0402 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: http://www.vishay.com/docs/20056/crcw01005e3.pdf), Alternate KiCad Library
+resistor handsolder
+0
+4
+2
+PCM_Resistor_SMD_AKL
+R_1020_2550Metric
+Resistor SMD 1020 (2550 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20019/rcwe.pdf), Alternate KiCad Library
+resistor
+0
+2
+2
+PCM_Resistor_SMD_AKL
+R_1020_2550Metric_Pad1.33x5.20mm
+Resistor SMD 1020 (2550 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: https://www.vishay.com/docs/20019/rcwe.pdf), Alternate KiCad Library
+resistor handsolder
+0
+2
+2
+PCM_Resistor_SMD_AKL
+R_1020_2550Metric_Pad1.33x5.20mm_HandSolder
+Resistor SMD 1020 (2550 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: https://www.vishay.com/docs/20019/rcwe.pdf), Alternate KiCad Library
+resistor handsolder
+0
+2
+2
+PCM_Resistor_SMD_AKL
+R_1206_3216Metric
+Resistor SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), Alternate KiCad Library
+resistor
+0
+2
+2
+PCM_Resistor_SMD_AKL
+R_1206_3216Metric_Pad1.30x1.75mm
+Resistor SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), Alternate KiCad Library
+resistor handsolder
+0
+2
+2
+PCM_Resistor_SMD_AKL
+R_1206_3216Metric_Pad1.30x1.75mm_HandSolder
+Resistor SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), Alternate KiCad Library
+resistor handsolder
+0
+2
+2
+PCM_Resistor_SMD_AKL
+R_1206_3216Metric_Pad1.42x1.75mm
+Resistor SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), Alternate KiCad Library
+resistor handsolder
+0
+2
+2
+PCM_Resistor_SMD_AKL
+R_1206_3216Metric_Pad1.42x1.75mm_HandSolder
+Resistor SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), Alternate KiCad Library
+resistor handsolder
+0
+2
+2
+PCM_Resistor_SMD_AKL
+R_1210_3225Metric
+Resistor SMD 1210 (3225 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), Alternate KiCad Library
+resistor
+0
+2
+2
+PCM_Resistor_SMD_AKL
+R_1210_3225Metric_Pad1.30x2.65mm
+Resistor SMD 1210 (3225 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), Alternate KiCad Library
+resistor handsolder
+0
+2
+2
+PCM_Resistor_SMD_AKL
+R_1210_3225Metric_Pad1.30x2.65mm_HandSolder
+Resistor SMD 1210 (3225 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), Alternate KiCad Library
+resistor handsolder
+0
+2
+2
+PCM_Resistor_SMD_AKL
+R_1210_3225Metric_Pad1.42x2.65mm
+Resistor SMD 1210 (3225 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), Alternate KiCad Library
+resistor handsolder
+0
+2
+2
+PCM_Resistor_SMD_AKL
+R_1210_3225Metric_Pad1.42x2.65mm_HandSolder
+Resistor SMD 1210 (3225 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), Alternate KiCad Library
+resistor handsolder
+0
+2
+2
+PCM_Resistor_SMD_AKL
+R_1218_3246Metric
+Resistor SMD 1218 (3246 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20035/dcrcwe3.pdf), Alternate KiCad Library
+resistor
+0
+2
+2
+PCM_Resistor_SMD_AKL
+R_1218_3246Metric_Pad1.22x4.75mm
+Resistor SMD 1218 (3246 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: https://www.vishay.com/docs/20035/dcrcwe3.pdf), Alternate KiCad Library
+resistor handsolder
+0
+2
+2
+PCM_Resistor_SMD_AKL
+R_1218_3246Metric_Pad1.22x4.75mm_HandSolder
+Resistor SMD 1218 (3246 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: https://www.vishay.com/docs/20035/dcrcwe3.pdf), Alternate KiCad Library
+resistor handsolder
+0
+2
+2
+PCM_Resistor_SMD_AKL
+R_1806_4516Metric
+Resistor SMD 1806 (4516 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.modelithics.com/models/Vendor/MuRata/BLM41P.pdf), Alternate KiCad Library
+resistor
+0
+2
+2
+PCM_Resistor_SMD_AKL
+R_1806_4516Metric_Pad1.57x1.80mm
+Resistor SMD 1806 (4516 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: https://www.modelithics.com/models/Vendor/MuRata/BLM41P.pdf), Alternate KiCad Library
+resistor handsolder
+0
+2
+2
+PCM_Resistor_SMD_AKL
+R_1806_4516Metric_Pad1.57x1.80mm_HandSolder
+Resistor SMD 1806 (4516 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: https://www.modelithics.com/models/Vendor/MuRata/BLM41P.pdf), Alternate KiCad Library
+resistor handsolder
+0
+2
+2
+PCM_Resistor_SMD_AKL
+R_1812_4532Metric
+Resistor SMD 1812 (4532 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.nikhef.nl/pub/departments/mt/projects/detectorR_D/dtddice/ERJ2G.pdf), Alternate KiCad Library
+resistor
+0
+2
+2
+PCM_Resistor_SMD_AKL
+R_1812_4532Metric_Pad1.30x3.40mm
+Resistor SMD 1812 (4532 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: https://www.nikhef.nl/pub/departments/mt/projects/detectorR_D/dtddice/ERJ2G.pdf), Alternate KiCad Library
+resistor handsolder
+0
+2
+2
+PCM_Resistor_SMD_AKL
+R_1812_4532Metric_Pad1.30x3.40mm_HandSolder
+Resistor SMD 1812 (4532 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: https://www.nikhef.nl/pub/departments/mt/projects/detectorR_D/dtddice/ERJ2G.pdf), Alternate KiCad Library
+resistor handsolder
+0
+2
+2
+PCM_Resistor_SMD_AKL
+R_2010_5025Metric
+Resistor SMD 2010 (5025 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), Alternate KiCad Library
+resistor
+0
+2
+2
+PCM_Resistor_SMD_AKL
+R_2010_5025Metric_Pad1.40x2.65mm
+Resistor SMD 2010 (5025 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), Alternate KiCad Library
+resistor handsolder
+0
+2
+2
+PCM_Resistor_SMD_AKL
+R_2010_5025Metric_Pad1.40x2.65mm_HandSolder
+Resistor SMD 2010 (5025 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), Alternate KiCad Library
+resistor handsolder
+0
+2
+2
+PCM_Resistor_SMD_AKL
+R_2010_5025Metric_Pad1.52x2.65mm
+Resistor SMD 2010 (5025 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), Alternate KiCad Library
+resistor handsolder
+0
+2
+2
+PCM_Resistor_SMD_AKL
+R_2010_5025Metric_Pad1.52x2.65mm_HandSolder
+Resistor SMD 2010 (5025 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), Alternate KiCad Library
+resistor handsolder
+0
+2
+2
+PCM_Resistor_SMD_AKL
+R_2512_6332Metric
+Resistor SMD 2512 (6332 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), Alternate KiCad Library
+resistor
+0
+2
+2
+PCM_Resistor_SMD_AKL
+R_2512_6332Metric_Pad1.40x3.35mm
+Resistor SMD 2512 (6332 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), Alternate KiCad Library
+resistor handsolder
+0
+2
+2
+PCM_Resistor_SMD_AKL
+R_2512_6332Metric_Pad1.40x3.35mm_HandSolder
+Resistor SMD 2512 (6332 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), Alternate KiCad Library
+resistor handsolder
+0
+2
+2
+PCM_Resistor_SMD_AKL
+R_2512_6332Metric_Pad1.52x3.35mm
+Resistor SMD 2512 (6332 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), Alternate KiCad Library
+resistor handsolder
+0
+2
+2
+PCM_Resistor_SMD_AKL
+R_2512_6332Metric_Pad1.52x3.35mm_HandSolder
+Resistor SMD 2512 (6332 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), Alternate KiCad Library
+resistor handsolder
+0
+2
+2
+PCM_Resistor_SMD_AKL
+R_2816_7142Metric
+Resistor SMD 2816 (7142 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size from: https://www.vishay.com/docs/30100/wsl.pdf), Alternate KiCad Library
+resistor
+0
+2
+2
+PCM_Resistor_SMD_AKL
+R_2816_7142Metric_Pad3.20x4.45mm
+Resistor SMD 2816 (7142 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size from: https://www.vishay.com/docs/30100/wsl.pdf), Alternate KiCad Library
+resistor handsolder
+0
+2
+2
+PCM_Resistor_SMD_AKL
+R_2816_7142Metric_Pad3.20x4.45mm_HandSolder
+Resistor SMD 2816 (7142 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size from: https://www.vishay.com/docs/30100/wsl.pdf), Alternate KiCad Library
+resistor handsolder
+0
+2
+2
+PCM_Resistor_SMD_AKL
+R_4020_10251Metric
+Resistor SMD 4020 (10251 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://datasheet.octopart.com/HVC0603T5004FET-Ohmite-datasheet-26699797.pdf), Alternate KiCad Library
+resistor
+0
+2
+2
+PCM_Resistor_SMD_AKL
+R_4020_10251Metric_Pad1.65x5.30mm
+Resistor SMD 4020 (10251 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: http://datasheet.octopart.com/HVC0603T5004FET-Ohmite-datasheet-26699797.pdf), Alternate KiCad Library
+resistor handsolder
+0
+2
+2
+PCM_Resistor_SMD_AKL
+R_4020_10251Metric_Pad1.65x5.30mm_HandSolder
+Resistor SMD 4020 (10251 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: http://datasheet.octopart.com/HVC0603T5004FET-Ohmite-datasheet-26699797.pdf), Alternate KiCad Library
+resistor handsolder
+0
+2
+2
+PCM_Resistor_SMD_AKL
+R_Array_Concave_2x0603
+Thick Film Chip Resistor Array, Wave soldering, Vishay CRA06P (see cra06p.pdf), Alternate KiCad Library
+resistor array
+0
+4
+4
+PCM_Resistor_SMD_AKL
+R_Array_Concave_4x0402
+Thick Film Chip Resistor Array, Wave soldering, Vishay CRA04P (see cra04p.pdf), Alternate KiCad Library
+resistor array
+0
+8
+8
+PCM_Resistor_SMD_AKL
+R_Array_Concave_4x0603
+Thick Film Chip Resistor Array, Wave soldering, Vishay CRA06P (see cra06p.pdf), Alternate KiCad Library
+resistor array
+0
+8
+8
+PCM_Resistor_SMD_AKL
+R_Array_Convex_2x0402
+Chip Resistor Network, ROHM MNR02 (see mnr_g.pdf), Alternate KiCad Library
+resistor array
+0
+4
+4
+PCM_Resistor_SMD_AKL
+R_Array_Convex_2x0603
+Chip Resistor Network, ROHM MNR12 (see mnr_g.pdf), Alternate KiCad Library
+resistor array
+0
+4
+4
+PCM_Resistor_SMD_AKL
+R_Array_Convex_2x0606
+Precision Thin Film Chip Resistor Array, VISHAY (see http://www.vishay.com/docs/28770/acasat.pdf), Alternate KiCad Library
+resistor array
+0
+4
+4
+PCM_Resistor_SMD_AKL
+R_Array_Convex_2x1206
+Chip Resistor Network, ROHM MNR32 (see mnr_g.pdf), Alternate KiCad Library
+resistor array
+0
+4
+4
+PCM_Resistor_SMD_AKL
+R_Array_Convex_4x0402
+Chip Resistor Network, ROHM MNR04 (see mnr_g.pdf), Alternate KiCad Library
+resistor array
+0
+8
+8
+PCM_Resistor_SMD_AKL
+R_Array_Convex_4x0603
+Chip Resistor Network, ROHM MNR14 (see mnr_g.pdf), Alternate KiCad Library
+resistor array
+0
+8
+8
+PCM_Resistor_SMD_AKL
+R_Array_Convex_4x0612
+Precision Thin Film Chip Resistor Array, VISHAY (see http://www.vishay.com/docs/28770/acasat.pdf), Alternate KiCad Library
+resistor array
+0
+8
+8
+PCM_Resistor_SMD_AKL
+R_Array_Convex_4x1206
+Chip Resistor Network, ROHM MNR34 (see mnr_g.pdf), Alternate KiCad Library
+resistor array
+0
+8
+8
+PCM_Resistor_SMD_AKL
+R_Array_Convex_5x0603
+Chip Resistor Network, ROHM MNR15 (see mnr_g.pdf), Alternate KiCad Library
+resistor array
+0
+10
+10
+PCM_Resistor_SMD_AKL
+R_Array_Convex_5x1206
+Chip Resistor Network, ROHM MNR35 (see mnr_g.pdf), Alternate KiCad Library
+resistor array
+0
+10
+10
+PCM_Resistor_SMD_AKL
+R_Array_Convex_8x0602
+Chip Resistor Network, ROHM MNR18 (see mnr_g.pdf), Alternate KiCad Library
+resistor array
+0
+16
+16
+PCM_Resistor_SMD_AKL
+R_Cat16-2
+SMT resistor net, Bourns CAT16 series, 2 way, Alternate KiCad Library
+SMT resistor net Bourns CAT16 series 2 way
+0
+4
+4
+PCM_Resistor_SMD_AKL
+R_Cat16-4
+SMT resistor net, Bourns CAT16 series, 4 way, Alternate KiCad Library
+SMT resistor net Bourns CAT16 series 4 way
+0
+8
+8
+PCM_Resistor_SMD_AKL
+R_Cat16-8
+SMT resistor net, Bourns CAT16 series, 8 way, Alternate KiCad Library
+SMT resistor net Bourns CAT16 series 8 way
+0
+16
+16
+PCM_Resistor_SMD_AKL
+R_MELF_MMB-0207
+Resistor, MELF, MMB-0207, http://www.vishay.com/docs/28713/melfprof.pdf, Alternate KiCad Library
+MELF Resistor
+0
+2
+2
+PCM_Resistor_SMD_AKL
+R_MicroMELF_MMU-0102
+Resistor, MicroMELF, MMU-0102, http://www.vishay.com/docs/28713/melfprof.pdf, Alternate KiCad Library
+MicroMELF Resistor
+0
+2
+2
+PCM_Resistor_SMD_AKL
+R_MiniMELF_MMA-0204
+Resistor, MiniMELF, MMA-0204, http://www.vishay.com/docs/28713/melfprof.pdf, Alternate KiCad Library
+MiniMELF Resistor
+0
+2
+2
+PCM_Resistor_SMD_AKL
+R_Shunt_Ohmite_LVK12
+4 contact shunt resistor, Alternate KiCad Library
+shunt resistor 4 contacts
+0
+4
+4
+PCM_Resistor_SMD_AKL
+R_Shunt_Ohmite_LVK20
+4 contacts shunt resistor, https://www.ohmite.com/assets/docs/res_lvk.pdf, Alternate KiCad Library
+4 contacts resistor smd
+0
+4
+4
+PCM_Resistor_SMD_AKL
+R_Shunt_Ohmite_LVK24
+4 contacts shunt resistor,https://www.ohmite.com/assets/docs/res_lvk.pdf, Alternate KiCad Library
+4 contacts resistor smd
+0
+4
+4
+PCM_Resistor_SMD_AKL
+R_Shunt_Ohmite_LVK25
+4 contacts shunt resistor,https://www.ohmite.com/assets/docs/res_lvk.pdf, Alternate KiCad Library
+4 contacts resistor smd
+0
+4
+4
+PCM_Resistor_SMD_AKL
+R_Shunt_Vishay_WSK2512_6332Metric_T1.19mm
+Shunt Resistor SMD 2512 (6332 Metric), 2.6mm thick, Vishay WKS2512, Terminal length (T) 1.19mm, 5 to 200 milli Ohm (http://http://www.vishay.com/docs/30108/wsk.pdf), Alternate KiCad Library
+resistor shunt WSK2512
+0
+4
+4
+PCM_Resistor_SMD_AKL
+R_Shunt_Vishay_WSK2512_6332Metric_T2.21mm
+Shunt Resistor SMD 2512 (6332 Metric), 2.6mm thick, Vishay WKS2512, Terminal length (T) 2.21mm, 1 to 4.9 milli Ohm (http://http://www.vishay.com/docs/30108/wsk.pdf), Alternate KiCad Library
+resistor shunt WSK2512
+0
+4
+4
+PCM_Resistor_SMD_AKL
+R_Shunt_Vishay_WSK2512_6332Metric_T2.66mm
+Shunt Resistor SMD 2512 (6332 Metric), 2.6mm thick, Vishay WKS2512, Terminal length (T) 2.66mm, 0.5 to 0.99 milli Ohm (http://http://www.vishay.com/docs/30108/wsk.pdf), Alternate KiCad Library
+resistor shunt WSK2512
+0
+4
+4
+PCM_Resistor_SMD_AKL
+R_Shunt_Vishay_WSKW0612
+https://www.vishay.com/docs/30332/wskw0612.pdf, Alternate KiCad Library
+4-Terminal SMD Shunt
+0
+4
+4
+PCM_Resistor_SMD_AKL
+R_Shunt_Vishay_WSR2_WSR3
+Power Metal Strip Resistors 0.005 to 0.2, https://www.vishay.com/docs/30101/wsr.pdf, Alternate KiCad Library
+SMD Shunt Resistor
+0
+2
+2
+PCM_Resistor_SMD_AKL
+R_Shunt_Vishay_WSR2_WSR3_KelvinConnection
+Power Metal Strip Resistors 0.005 to 0.2, https://www.vishay.com/docs/30101/wsr.pdf, Alternate KiCad Library
+SMD Shunt Resistor
+0
+4
+2

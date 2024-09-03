@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "seed")(type "KiCad")(uri "C:/Users/Alex/Downloads/Seeeduino-XIAO-KICAD (1)/Seeeduino XIAO KICAD/seed.pretty")(options "")(descr ""))
+)
