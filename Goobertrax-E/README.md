@@ -14,4 +14,5 @@ The Goobertrax-E is a 30 key hot swappable Hummingbird-like Keyboard using the R
 Keyboard is named the Goober because only a goober would use one. It is a very goofy keyboard. The thumbs keys are super "tucky" and it is awkward to figure out a layout. But once you get used to it, it just might become your favorite keyboard!
 
 The keyboard runs on VIAL QMK firmware.
+![Goober](assets/goober_picture.jpg)
 
